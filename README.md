@@ -12,4 +12,4 @@ ionic serve
 
 # 3 connect to localhost at specific port server is running
 
-# 4 shift to responsive design mode 
+# 4 switch to responsive design mode 
