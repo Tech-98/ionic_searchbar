@@ -7,6 +7,34 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  searchTerm: string;
+  devices = [
+    {
+      deviceName: 'Steve\'s phone',
+      deviceType: 'iPhone 12'
+
+    },
+    {
+      deviceName: 'Saskia pad',
+      deviceType: 'iPad Mini'
+
+    },
+    {
+      deviceName: 'My Monitor',
+      deviceType: 'Wireless monitor'
+
+    },
+    {
+      deviceName: 'Steve\'s Monitor',
+      deviceType: 'Wireless monitor'
+
+    },
+    {
+      deviceName: 'Device name',
+      deviceType: 'Device type'
+
+    },
+  ];
+  constructor() { }
 
 }
