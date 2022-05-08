@@ -4,7 +4,7 @@ https://searchbar.astech.ga
 
 # ionic_searchbar
 
-# 1 run:
+# steps:
 
 npm install
 
@@ -12,8 +12,8 @@ npm i ng2-search-filter --save
 
 ionic serve
 
-# 2 open browser
+open browser
 
-# 3 connect to localhost at specific port server is running
+connect to localhost at specific port server is running
 
-# 4 switch to responsive design mode 
+switch to responsive design mode 
